@@ -1,0 +1,4 @@
+pandas
+pymysql
+kaggle
+pyhton version - 3.11.8
